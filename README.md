@@ -40,8 +40,7 @@ Cara Menjalankan:
 3. Jalankan perintah:
    npm install
    npm run serve
-4. Buka browser dan akses:
-   http://localhost:8080
+4. Buka browser
 
 Catatan:
 --------
@@ -52,4 +51,4 @@ dan sebagai latihan implementasi dasar Vue.js (komponen, props, event, dan trans
 ---
 
 Galuh Kurnia Pratama
-Bootcamp Frontend @ MySkill
+Bootcamp Frontend VueJS @ MySkill
